@@ -1,0 +1,3 @@
+script_1.js: returncode=0
+script_2.js: returncode=0
+JavaScript構文チェック: OK

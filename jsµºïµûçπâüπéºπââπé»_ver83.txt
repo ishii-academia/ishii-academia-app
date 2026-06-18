@@ -1,0 +1,4 @@
+script開始数: 4
+script終了数: 4
+通常script数: 2
+構文チェック: OK

@@ -1,0 +1,21 @@
+石井訪問リハビリマッサージ e-ラーニング ver85.3 動画URL反映版
+作成日時: 2026-06-05 17:06:33
+
+反映元データ: ChatGPTにアップロード用_ishii_academia_update_data_2026-06-06.txt
+反映内容:
+- settingsData をアップロード用データの settings に置換
+- courseData をアップロード用データの courses に置換
+- その他のHTML/CSS/JavaScript/PWA関連ファイルは ver85.2 から変更なし
+
+確認:
+- 講座数: 91
+- フォルダ数: 13
+- 確認テスト数: 324
+- 写真URL数: 6
+- 動画URL数: 2
+- 動画URL入り講座:
+  - 講座44: 【体位変換・移乗編】仰臥位から側臥位への体位変換 / https://youtu.be/Lm5eTkhDNN4?si=2sV9TyTDAGEaxTry
+  - 講座47: 【体位変換・移乗編】ベッド上での位置調整 / https://youtu.be/yt4pMhHx5q8?si=h250uejEAJmw_qzq
+
+
+ver85.3 YouTube153対策：index.htmlのYouTube埋め込みiframeにreferrerpolicy等を追加し、YouTubeで開くリンクを追加。講座データ・本文・テスト・フォルダ構成・保存処理は未変更。

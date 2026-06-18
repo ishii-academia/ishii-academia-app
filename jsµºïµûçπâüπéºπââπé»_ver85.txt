@@ -1,0 +1,2 @@
+JavaScript構文チェック：OK
+scriptタグ：開始4／終了4
