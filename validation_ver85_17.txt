@@ -1,0 +1,6 @@
+script_start=4
+script_end=4
+js_syntax_check=OK
+js_stdout=
+js_stderr=
+metrics={"courses": 91, "folders": 13, "training": 8, "quiz": 324, "video_courses": 6, "video_total": 13, "photos": 6, "exportedAt": "2026/6/21 13:25:00"}
